@@ -1,3 +1,4 @@
+別の変更を加えたよ
 # To practice resolving conflicts with Git and GitHub using pull requests, follow these steps:
 
 ## Preparation
